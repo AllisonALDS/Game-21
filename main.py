@@ -101,4 +101,5 @@ def jogar():
         else:
             continue
 
+
 jogar()
