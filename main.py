@@ -100,6 +100,4 @@ def jogar():
             singleplayer()
         else:
             continue
-
-
 jogar()
