@@ -9,7 +9,7 @@ def singleplayer():
     cartas_atual_maquina = 0
     cartasd = []
 
-    
+
 
     print(f"--- MODO SINGLEPLAYER ---")
     print(f"Voce começou com {cartas_atual}")
@@ -43,6 +43,8 @@ def singleplayer():
                     print(f"Pontos Maquinas: {cartas_atual_maquina}")
                     print("Empate! \n")
                     break
+
+
 
 def multiplayer():
     players = 0
