@@ -6,6 +6,7 @@ def cartas():
 
 def singleplayer():
 
+
     cartas_atual = 0
     cartas_atual_maquina = 0
     cartasd = []
