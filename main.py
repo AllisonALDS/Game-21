@@ -44,9 +44,6 @@ def singleplayer():
                     print("Empate! \n")
                     break
 
-
-
-
 def multiplayer():
     players = 0
     jogadores = []
