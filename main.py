@@ -5,11 +5,11 @@ def cartas():
     return random.choice(card)
 
 def singleplayer():
-
-
     cartas_atual = 0
     cartas_atual_maquina = 0
     cartasd = []
+
+    
 
     print(f"--- MODO SINGLEPLAYER ---")
     print(f"Voce começou com {cartas_atual}")
