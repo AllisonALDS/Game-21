@@ -4,6 +4,7 @@ def cartas():
     card = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     return random.choice(card)
 
+
 def singleplayer():
     cartas_atual = 0
     cartas_atual_maquina = 0
